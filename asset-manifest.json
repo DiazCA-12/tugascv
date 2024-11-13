@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tugascv/static/css/main.179f0b23.css",
+    "main.js": "/tugascv/static/js/main.c3b0123b.js",
+    "static/js/453.8d11c76b.chunk.js": "/tugascv/static/js/453.8d11c76b.chunk.js",
+    "static/media/P2.png": "/tugascv/static/media/P2.a3bcc157ae2cf0fbd5cf.png",
+    "static/media/P1.png": "/tugascv/static/media/P1.f177681ac11feed45fb6.png",
+    "static/media/foto.jpg": "/tugascv/static/media/foto.e12cfad0c9294478e4ed.jpg",
+    "static/media/cv.jpg": "/tugascv/static/media/cv.99a0b977e6b3b92fed1f.jpg",
+    "index.html": "/tugascv/index.html",
+    "main.179f0b23.css.map": "/tugascv/static/css/main.179f0b23.css.map",
+    "main.c3b0123b.js.map": "/tugascv/static/js/main.c3b0123b.js.map",
+    "453.8d11c76b.chunk.js.map": "/tugascv/static/js/453.8d11c76b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179f0b23.css",
+    "static/js/main.c3b0123b.js"
+  ]
+}
